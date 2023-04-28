@@ -17,3 +17,8 @@ while (monto < 50000) {
 
     monto = prompt("Ingrese un nuevo monto")
 }
+
+function saludar(nombre) {
+    console.log("Hola bienvenido a " + nombre);
+}
+saludar("Labasse - Indumentaria - Masculina")
