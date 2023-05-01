@@ -50,3 +50,12 @@ let zapatoMarronPrince = {
 
 console.log(calzadoGinoPavolli)
 console.log(zapatoMarronPrince)
+
+//ARRAYS 
+
+let miArray = ["Camperas", "Remeras", "Pantalón", "Calzado"]
+
+for (let i = 0; i < 4; i++) {
+    let mostrar = miArray[i];
+    console.log(mostrar);
+}
